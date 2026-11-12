@@ -226,6 +226,8 @@ L["Save failed"] = "Speichern fehgeschlagen"
 L["Script saved"] = "Script gespeichert"
 L["Scripts"] = true
 --Translation missing
+L["Search by icon ID"] = "Nach Symbol-ID suchen"
+L["Search by name"] = "Nach Name suchen"
 L["Search by spell ID"] = "Search by spell ID"
 L["Sell grey items"] = "Verkaufe graue Items"
 L["Set raid target"] = "Setze Raid-Ziel"
