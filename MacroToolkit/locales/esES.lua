@@ -181,6 +181,8 @@ L["Save failed"] = "Guardado fallido"
 L["Script saved"] = "Script guardado"
 L["Scripts"] = true
 --Translation missing
+L["Search by icon ID"] = "Buscar por ID de icono"
+L["Search by name"] = "Buscar por nombre"
 L["Search by spell ID"] = "Search by spell ID"
 L["Sell grey items"] = "Vender objetos grises"
 L["Set raid target"] = "Marcado objetivo de raid"

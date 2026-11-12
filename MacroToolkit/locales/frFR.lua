@@ -185,6 +185,8 @@ L["Save failed"] = "Sauvegarde \195\169chou\195\169e"
 L["Script saved"] = "Script sauvegard\195\169"
 L["Scripts"] = true
 --Translation missing
+L["Search by icon ID"] = "Rechercher par ID d'ic\195\180ne"
+L["Search by name"] = "Rechercher par nom"
 L["Search by spell ID"] = "Search by spell ID"
 L["Sell grey items"] = "Vendre les objets gris"
 L["Set raid target"] = "S\195\169lectionner la cible de raid"

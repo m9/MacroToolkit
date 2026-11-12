@@ -342,6 +342,8 @@ L["Script saved"] = "Script saved"
 --Translation missing
 L["Scripts"] = "Scripts"
 --Translation missing
+L["Search by icon ID"] = "Buscar por ID de icono"
+L["Search by name"] = "Buscar por nombre"
 L["Search by spell ID"] = "Search by spell ID"
 --Translation missing
 L["Sell grey items"] = "Sell grey items"
